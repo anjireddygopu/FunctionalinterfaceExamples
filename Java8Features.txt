@@ -1,0 +1,6 @@
+Java8 new features topics
+
+1.lambda Expresions
+2.functionalInterface
+3.MethodRefernces
+4.default and Staticmethods in Interface
