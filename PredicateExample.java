@@ -1,3 +1,6 @@
+/*
+Predicate represents an operation which takes an argument T and returns a boolean. Use this functional interface, if you want to define a lambda expression which performs some test on an argument and returns true or false depending upon outcome of the test.
+*/
 package p1;
 
 import java.util.ArrayList;
